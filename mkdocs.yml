@@ -17,7 +17,7 @@ copyright: Copyright &copy 2025 Regents of the University of California. This gr
 
 theme:
   name: material
-  custom_dir: overrides
+  # custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
