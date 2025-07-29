@@ -13,10 +13,11 @@ repo_name: JulianBarbera/slugbotics-material
 repo_url: https://github.com/JulianBarbera/slugbotics-material#
 
 # Copyright
-copyright: Copyright &copy Regents of the University of California 
+copyright: Copyright &copy 2025 Regents of the University of California. This group is open to all students consistent with state and federal law, the UC Nondiscrimination Statement and the Nondiscrimination Policy Statement for University of California Publications Regarding Student-Related Matters.  
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -68,5 +69,35 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-  icon:
-    logo: logo
+  logo: assets/slugbotics-logo.svg
+
+# Additional configuration
+extra:
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Slugbotics
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@slugbotics866
+    - icon: fontawesome/brands/discord
+      link: http://discord.slugbotics.com/
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects:
+    - Arm: projects/arm.md
+    - Business: projects/business.md
+    - Combat Robotics: projects/combatrobotics.md
+    - Cruz Control: projects/cruzcontrol.md
+    - Humanoid: projects/humanoid.md
+    - Mate: projects/mate.md
+    - Railspeeder: projects/railspeeder.md
+    - Rover: projects/rover.md
+    - SOMARS: projects/somars.md
+  - Team: team.md
+  - Onboarding: onboarding.md
+  - Sponsors: sponsors.md
+  - Contact: contact.md
