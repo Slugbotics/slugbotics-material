@@ -9,8 +9,8 @@ site_description: >-
 
 
 # Repository
-repo_name: JulianBarbera/slugbotics-material
-repo_url: https://github.com/JulianBarbera/slugbotics-material#
+repo_name: Slugbotics/slugbotics-material
+repo_url: https://github.com/Slugbotics/slugbotics-material#
 
 # Copyright
 copyright: Copyright &copy 2025 Regents of the University of California. This group is open to all students consistent with state and federal law, the UC Nondiscrimination Statement and the Nondiscrimination Policy Statement for University of California Publications Regarding Student-Related Matters.  
@@ -28,14 +28,14 @@ theme:
     # - content.footnote.tooltips
     # - content.tabs.link
     - content.tooltips
-    # - header.autohide
-    # - navigation.expand
+    - header.autohide
+    - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
-    # - navigation.prune
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.prune
     - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
