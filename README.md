@@ -16,6 +16,12 @@ git clone https://github.com/Slugbotics/slugbotics-material.git
 python3 -m venv venv
 ```
 
+### Activate venv
+
+```bash
+source venv/bin/activate
+```
+
 ### Install mkdocs-material
 
 ```bash
