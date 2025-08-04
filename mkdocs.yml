@@ -68,8 +68,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
-  logo: assets/slugbotics-logo.svg
+  favicon: /assets/slugbotics-logo.svg
+  logo: /assets/slugbotics-logo.svg
 
 # Additional configuration
 extra:
