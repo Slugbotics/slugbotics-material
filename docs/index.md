@@ -18,41 +18,41 @@ students to hands-on robotics engineering.
 
 ## What We Do
 
-### [MATE Underwater Robotics](/projects/mate)
+### [MATE Underwater Robotics](projects/mate)
 
 matematematemate
 
-### [Cruz Control Autonomous Vehicles](/projects/cruzcontrol)
+### [Cruz Control Autonomous Vehicles](projects/cruzcontrol)
 
 cruzcontrolcruzcontrolcruzcontrol
 
-### [SOMARS UAV Research](/projects/somars)
+### [SOMARS UAV Research](projects/somars)
 
 somarssomarssomars
 
-### [Combat Robotics](/projects/combarrobotics)
+### [Combat Robotics](projects/combarrobotics)
 
 combatroboticscombatroboticscombartobotics
 
-### [Railspeeder Rail Health Inspection](/projects/railspeeder)
+### [Railspeeder Rail Health Inspection](projects/railspeeder)
 
 The Railspeeder project aims to evaluate the condition and saftey of closed and
 abandoned rail lines so that reports can be generated and provided to transit
 agencies in hopes of reconditioning and reopening these lines.
 
-### [Arm Team](/projects/arm)
+### [Arm Team](projects/arm)
 
 armteamarmteamarmteam
 
-### [Business Operations](/projects/business)
+### [Business Operations](projects/business)
 
 businessbusinessbusiness
 
-### [Rover Team](/projects/rover)
+### [Rover Team](projects/rover)
 
 roverroverrover
 
-### [Humanoid Team](/projects/humanoid)
+### [Humanoid Team](projects/humanoid)
 
 humanoidhumanoidhumanoid
 

@@ -53,23 +53,23 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: sunflower
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: /assets/slugbotics-logo.svg
-  logo: /assets/slugbotics-logo.svg
+  favicon: assets/slugbotics-logo.svg
+  logo: assets/slugbotics-logo.svg
 
 # Additional configuration
 extra:
@@ -101,3 +101,6 @@ nav:
   - Onboarding: onboarding.md
   - Sponsors: sponsors.md
   - Contact: contact.md
+
+extra_css:
+  - stylesheets/extra.css
