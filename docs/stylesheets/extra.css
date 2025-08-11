@@ -12,6 +12,16 @@
 
   /* Links */
   --md-typeset-a-color: var(--md-accent-fg-color);
+
+  /* Make headers bold */
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3,
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6 {
+    font-weight: 700 !important;
+  }
 }
 
 /* Dark mode */
