@@ -30,13 +30,13 @@ cruzcontrolcruzcontrolcruzcontrol
 
 somarssomarssomars
 
-### [Combat Robotics](projects/combarrobotics)
+### [Combat Robotics](projects/combatrobotics)
 
-The Combat Robotics Team at UCSC creates a safe and engaging space for engineers 
-to make some cool fighting bots. Our team holds a yearly PLAnt workshop, where 
-new members work in groups to make 1lb plastic combat robots that compete against
-each other. Additionally, our team has 2 beetleweight combat robots that compete
-around California.
+The Combat Robotics Team at UCSC creates a safe and engaging space for engineers
+to make some cool fighting bots. Our team holds a yearly PLAnt workshop, where
+new members work in groups to make 1lb plastic combat robots that compete
+against each other. Additionally, our team has 2 beetleweight combat robots that
+compete around California.
 
 ### [Railspeeder Rail Health Inspection](projects/railspeeder)
 
