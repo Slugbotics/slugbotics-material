@@ -1,0 +1,56 @@
+/* Default */
+:root {
+  /* Primary */
+  --md-primary-fg-color: #003c6c; /* UCSC Blue */
+  --md-primary-fg-color--light: #005b9f; /* Slightly lighter blue */
+  --md-primary-fg-color--dark: #00223d; /* Slightly darker blue */
+
+  /* Accent */
+  --md-accent-fg-color: #fdc700; /* UCSC Yellow */
+  --md-accent-fg-color--light: #ffe34d;
+  --md-accent-fg-color--dark: #c79a00;
+
+  /* Links */
+  --md-typeset-a-color: var(--md-accent-fg-color);
+
+  /* Make headers bold */
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3,
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6 {
+    font-weight: 700 !important;
+  }
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] {
+  /* Header */
+  --md-primary-fg-color: #003c6c;
+  --md-primary-fg-color--light: #005b9f;
+  --md-primary-fg-color--dark: #00223d;
+
+  /* Accent */
+  --md-accent-fg-color: #fdc700;
+  --md-accent-fg-color--light: #ffe34d;
+  --md-accent-fg-color--dark: #c79a00;
+
+  /* Links */
+  --md-typeset-a-color: var(--md-accent-fg-color);
+}
+
+/* Make active nav tab yellow */
+.md-tabs__link--active,
+.md-tabs__item--active > .md-tabs__link {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Make buttons match accent color */
+.md-button {
+  background-color: var(--md-accent-fg-color);
+  color: #000;
+}
+.md-button:hover {
+  background-color: var(--md-accent-fg-color--light);
+}
