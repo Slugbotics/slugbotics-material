@@ -58,7 +58,8 @@ roverroverrover
 
 ### [Humanoid Team](projects/humanoid)
 
-humanoidhumanoidhumanoid
+The Humanoid Robot sub team is dedicated to designing and building an in-house
+robot that moves like a real person!
 
 ---
 
