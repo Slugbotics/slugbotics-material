@@ -20,7 +20,8 @@ students to hands-on robotics engineering.
 
 ### [MATE Underwater Robotics](projects/mate)
 
-matematematemate
+The Mate project enables students to work on Marine Robotics. This project
+participates in the MATE ROV International Competition.
 
 ### [Cruz Control Autonomous Vehicles](projects/cruzcontrol)
 
