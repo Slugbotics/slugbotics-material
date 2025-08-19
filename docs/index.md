@@ -29,7 +29,8 @@ cruzcontrolcruzcontrolcruzcontrol
 
 ### [SOMARS UAV Research](projects/somars)
 
-somarssomarssomars
+The SOMARS (System for the Oversight and Management of Autonomous Robotics
+Systems) deals with all aspects of aerospace and aviation research and robotics.
 
 ### [Combat Robotics](projects/combatrobotics)
 
