@@ -18,43 +18,50 @@ students to hands-on robotics engineering.
 
 ## What We Do
 
-### [MATE Underwater Robotics](/projects/mate)
+### [MATE Underwater Robotics](projects/mate)
 
-matematematemate
+The Mate project enables students to work on Marine Robotics. This project
+participates in the MATE ROV International Competition.
 
-### [Cruz Control Autonomous Vehicles](/projects/cruzcontrol)
+### [Cruz Control Autonomous Vehicles](projects/cruzcontrol)
 
 cruzcontrolcruzcontrolcruzcontrol
 
-### [SOMARS UAV Research](/projects/somars)
+### [SOMARS UAV Research](projects/somars)
 
-somarssomarssomars
+The SOMARS (System for the Oversight and Management of Autonomous Robotics
+Systems) deals with all aspects of aerospace and aviation research and robotics.
 
-### [Combat Robotics](/projects/combarrobotics)
+### [Combat Robotics](projects/combatrobotics)
 
-combatroboticscombatroboticscombartobotics
+The Combat Robotics Team at UCSC creates a safe and engaging space for engineers
+to make some cool fighting bots. Our team holds a yearly PLAnt workshop, where
+new members work in groups to make 1lb plastic combat robots that compete
+against each other. Additionally, our team has 2 beetleweight combat robots that
+compete around California.
 
-### [Railspeeder Rail Health Inspection](/projects/railspeeder)
+### [Railspeeder Rail Health Inspection](projects/railspeeder)
 
 The Railspeeder project aims to evaluate the condition and saftey of closed and
 abandoned rail lines so that reports can be generated and provided to transit
 agencies in hopes of reconditioning and reopening these lines.
 
-### [Arm Team](/projects/arm)
+### [Arm Team](projects/arm)
 
 armteamarmteamarmteam
 
-### [Business Operations](/projects/business)
+### [Business Operations](projects/business)
 
 businessbusinessbusiness
 
-### [Rover Team](/projects/rover)
+### [Rover Team](projects/rover)
 
 roverroverrover
 
-### [Humanoid Team](/projects/humanoid)
+### [Humanoid Team](projects/humanoid)
 
-humanoidhumanoidhumanoid
+The Humanoid Robot sub team is dedicated to designing and building an in-house
+robot that moves like a real person!
 
 ---
 
