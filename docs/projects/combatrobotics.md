@@ -1,6 +1,6 @@
 # UCSC Combat Robotics  
 
-![Photo of our team members](../assets/images/projects/cr/merged.png)  
+![Photo of our team members](../assets/images/projects/cr/merged.webp)  
 
 
 We are **UCSC Combat Robotics**, a student-led subteam of [Slugbotics](../index.md) founded in 2021. We design, build, and fight combat robots in tournaments both on and off campus.  
@@ -33,7 +33,7 @@ Robots use standard combat robotics systems:
 
 ## Our Robots  
 
-![Photo of our beetleweight robots](../assets/images/projects/cr/beetleweights.jpg)  
+![Photo of our beetleweight robots](../assets/images/projects/cr/beetleweights.webp)  
 *Our beetleweight combat robots, designed and built by UCSC students.*  
 
 ---
