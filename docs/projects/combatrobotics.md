@@ -1,6 +1,6 @@
 # UCSC Combat Robotics  
 
-![Photo of our team members](../assets/images/projects/cr/people%20photo%20wide.png)  
+![Photo of our team members](../assets/images/projects/cr/merged.png)  
 
 
 We are **UCSC Combat Robotics**, a student-led subteam of [Slugbotics](../index.md) founded in 2021. We design, build, and fight combat robots in tournaments both on and off campus.  
