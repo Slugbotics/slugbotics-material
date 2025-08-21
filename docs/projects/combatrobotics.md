@@ -1,10 +1,7 @@
 # UCSC Combat Robotics  
 
-<div align="center">
-  <img src="/assets/images/projects/cr/people%20photo%20wide.png" alt="Photo of our team members" width="800"/>
-  <br><br>
-  <img src="/assets/images/projects/cr/logo.png" alt="Slugbotics Combat Robotics Logo" width="200" align="right"/>
-</div>  
+![Photo of our team members](../assets/images/projects/cr/people%20photo%20wide.png)  
+
 
 We are **UCSC Combat Robotics**, a student-led subteam of [Slugbotics](../index.md) founded in 2021. We design, build, and fight combat robots in tournaments both on and off campus.  
 
@@ -36,10 +33,8 @@ Robots use standard combat robotics systems:
 
 ## Our Robots  
 
-<div align="center">
-  <img src="/assets/images/projects/cr/beetleweights.jpg" alt="Photo of our beetleweight robots" width="800"/>
-  <br><em>Our beetleweight combat robots, designed and built by UCSC students.</em></br>
-</div>  
+![Photo of our beetleweight robots](../assets/images/projects/cr/beetleweights.jpg)  
+*Our beetleweight combat robots, designed and built by UCSC students.*  
 
 ---
 
@@ -50,7 +45,7 @@ Robots use standard combat robotics systems:
 3. **Pick a subteam** (mechanical, electrical, or arena/tournament operations)  
 4. **Help us compete** and improve our designs each quarter  
 
-Follow us on [Instagram](https://www.instagram.com/ucsccombatrobotics/), join our [Discord](http://discord.slugbotics.com/), or check [Slugbotics.org](https://slugbotics.com/slugbotics-material/) for updates.  
+Follow us on [Instagram](https://www.instagram.com/ucsccombatrobotics/), join our [Discord](http://discord.slugbotics.com/), or check [Slugbotics.org](../index.md) for updates.  
 
 ---
 
