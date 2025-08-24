@@ -1,0 +1,32 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+
+  <section class="hero-container">
+    <div class="hero-image"></div>
+    <div class="hero-content md-grid md-typeset">
+      <h1>Hands-On Robotics at UCSC</h1>
+      <p>Bridging the gap between today and tomorrow</p>
+      <a
+        href="https://discord.slugbotics.com"
+        title="Join Now"
+        class="md-button md-button--primary"
+      >
+        Join Now
+      </a>
+      <a
+        href="{{ 'about/' | url }}"
+        title="About"
+        class="md-button"
+      >
+        Learn More
+      </a>
+    </div>
+
+    <div class="scroll-down">
+      <span></span>
+    </div>
+  </section>
+{% endblock %}
+
