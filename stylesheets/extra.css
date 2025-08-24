@@ -89,7 +89,7 @@
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url("../../assets/images/rov.webp");
+  background-image: url("/assets/images/rov.webp");
   background-size: cover;
   background-position: center;
   z-index: 1;
