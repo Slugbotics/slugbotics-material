@@ -87,6 +87,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects:
+      - projects.md
       - Arm: projects/arm.md
       - Business: projects/business.md
       - Combat Robotics: projects/combatrobotics.md
