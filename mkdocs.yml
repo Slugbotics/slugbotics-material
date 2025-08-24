@@ -88,7 +88,7 @@ nav:
   - About: about.md
   - Projects:
       - projects.md
-      - Arm: projects/arm.md
+      - Arm: projects/armteam.md
       - Business: projects/business.md
       - Combat Robotics: projects/combatrobotics.md
       - Cruz Control: projects/cruzcontrol.md
