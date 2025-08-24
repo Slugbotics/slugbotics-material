@@ -4,12 +4,6 @@ hide:
   - navigation
 ---
 
-# Welcome to Slugbotics
-
-Hands-On Robotics at UC Santa Cruz
-
----
-
 ## About Us
 
 Slugbotics is a student organization at UC Santa Cruz focused on introducing
