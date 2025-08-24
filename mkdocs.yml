@@ -12,11 +12,11 @@ repo_name: Slugbotics/slugbotics-material
 repo_url: https://github.com/Slugbotics/slugbotics-material#
 
 # Copyright
-copyright: Copyright &copy 2025 Regents of the University of California. This group is open to all students consistent with state and federal law, the UC Nondiscrimination Statement and the Nondiscrimination Policy Statement for University of California Publications Regarding Student-Related Matters.  
+copyright: Copyright &copy 2025 Regents of the University of California. This group is open to all students consistent with state and federal law, the UC Nondiscrimination Statement and the Nondiscrimination Policy Statement for University of California Publications Regarding Student-Related Matters.
 
 theme:
   name: material
-  # custom_dir: overrides
+  custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -87,15 +87,15 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects:
-    - Arm: projects/arm.md
-    - Business: projects/business.md
-    - Combat Robotics: projects/combatrobotics.md
-    - Cruz Control: projects/cruzcontrol.md
-    - Humanoid: projects/humanoid.md
-    - Mate: projects/mate.md
-    - Railspeeder: projects/railspeeder.md
-    - Rover: projects/rover.md
-    - SOMARS: projects/somars.md
+      - Arm: projects/arm.md
+      - Business: projects/business.md
+      - Combat Robotics: projects/combatrobotics.md
+      - Cruz Control: projects/cruzcontrol.md
+      - Humanoid: projects/humanoid.md
+      - Mate: projects/mate.md
+      - Railspeeder: projects/railspeeder.md
+      - Rover: projects/rover.md
+      - SOMARS: projects/somars.md
   - Team: team.md
   - Onboarding: onboarding.md
   - Sponsors: sponsors.md
