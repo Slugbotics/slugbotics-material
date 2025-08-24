@@ -158,3 +158,42 @@
     transform: rotate(45deg) translateY(3px);
   }
 }
+.md-grid__item .md-card {
+  border: none;
+  box-shadow: none; /* Optionally remove box shadow as well */
+}
+
+/* Responsive logo grid — drop in more <a class="sponsor">…</a> and it Just Works */
+.sponsors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.25rem;
+  align-items: center;
+  justify-items: center;
+}
+
+/* Keep logos crisp, same visual height, never stretched */
+.sponsors-grid img {
+  max-height: 90px; /* <- tweak this to taste */
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Optional: give each logo some breathing room for click targets */
+.sponsor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+}
+
+/* Optional tiers (use .sponsor--lg / --sm on the <a> if needed) */
+.sponsor--lg img {
+  max-height: 120px;
+}
+.sponsor--sm img {
+  max-height: 70px;
+}

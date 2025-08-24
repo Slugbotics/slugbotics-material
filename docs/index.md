@@ -76,11 +76,9 @@ robot that moves like a real person!
 
 ## Our Team
 
-Our team is led by student leads in areas including autonomous systems,
-mechanical design, electronics, controls, and programming. Notable current
-leaders include Neal Chokshi, Wren Sakai, Rohan Tuli, Eliot Wachtel, and many
-others working on various subteams such as Cruz Control, MATE, SOMARS, and
-combat robotics.
+Slugbotics is fully run by cross-departmental undergraduate students with a
+common passion for engineering. We welcome members of all backgrounds and
+experience levels.
 
 ---
 
