@@ -15,9 +15,13 @@ follow natural language commands such as _“pick up the blue water bottle.”_ 
 arm can also stream on **Twitch** and respond to Twitch chat, letting people
 interact with it remotely in a fun and accessible way.
 
-<img src="../../assets/images/projects/armteam/armteam-arm-tracking.mov" alt="Vision tracking demo" class="center">
+<video width="852" height="480" controls>
+<source src="../../assets/images/projects/armteam/armteam-arm-tracking.mp4" type="video/mp4">
+Your browser does not support video
+</video>
+
 /// caption
-Video: Vision system tracking objects in real time.
+Video: Vision system tracking objects in real time. 
 ///
 
 ---
@@ -37,7 +41,7 @@ Robots use standard robotic systems:
 
 <img src="../../assets/images/projects/armteam/armteam-arm.jpg" alt="Our robotic arm" class="center">
 /// caption
-The ArmTeam 3D-printed robotic arm in development. 
+The ArmTeam 3D-printed robotic arm in development.
 ///
 
 ---
@@ -50,7 +54,7 @@ The ArmTeam 3D-printed robotic arm in development.
 - **Collaborate with professors** to explore lab automation
 - **Experiment with real-world applications** in farming and lab environments.
 
-<img src="../../assets/images/projects/armteam/armteam-CAD-flyer.png" alt="CAD design flyer" class="center">
+<img src="../../assets/images/projects/armteam/armteam-cad-flyer.png" alt="CAD design flyer" class="center">
 /// caption
 CAD and design skills are at the core of the project._
 ///
