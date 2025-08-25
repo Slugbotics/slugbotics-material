@@ -41,9 +41,13 @@ The Railspeeder project aims to evaluate the condition and saftey of closed and
 abandoned rail lines so that reports can be generated and provided to transit
 agencies in hopes of reconditioning and reopening these lines.
 
-### [Arm Team](projects/arm)
+### [Arm Team](projects/armteam)
 
-armteamarmteamarmteam
+We are building a 3D-printed robotic arm with computer vision and natural
+language control. It can recognize objects, follow commands like “pick up the
+blue water bottle,” and even stream on Twitch to respond to chat. Our goal is to
+collaborate with professors and students—especially in chemistry and biomedical
+fields—to explore real lab automation and new applications.
 
 ### [Business Operations](projects/business)
 
