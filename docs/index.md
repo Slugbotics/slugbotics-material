@@ -37,7 +37,7 @@ compete around California.
 
 ### [Railspeeder Rail Health Inspection](projects/railspeeder)
 
-The Railspeeder project aims to evaluate the condition and saftey of closed and
+The Railspeeder project aims to evaluate the condition and safety of closed and
 abandoned rail lines so that reports can be generated and provided to transit
 agencies in hopes of reconditioning and reopening these lines.
 

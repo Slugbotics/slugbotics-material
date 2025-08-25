@@ -11,4 +11,4 @@ President:
 Lab Safety Officer:
 [Percy Vashisht](https://www.linkedin.com/in/prithvi-vashisht-053038187)
 
-Project leads are numerous and everchanging
+Project leads are numerous and ever changing
