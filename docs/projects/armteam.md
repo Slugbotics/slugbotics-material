@@ -1,6 +1,6 @@
 # UCSC Arm Team
 
-![Photo from our intro meeting](../assets/images/projects/armteam/Armteam%202024%20into%20meeting.jpg)
+<img src="/assets/images/projects/armteam/Armteam%202024%20into%20meeting.jpg" alt="Photo from our intro meeting" width="400" class="center">
 
 We are **UCSC Arm Team**, a student-led subteam of [Slugbotics](../index.md)
 founded in 2024.
@@ -15,7 +15,7 @@ follow natural language commands such as _“pick up the blue water bottle.”_ 
 arm can also stream on **Twitch** and respond to Twitch chat, letting people
 interact with it remotely in a fun and accessible way.
 
-![Vision tracking demo](../assets/images/projects/armteam/armteam%20arm%20tracking.mov)
+<img src="/assets/images/projects/armteam/armteam%20arm%20tracking.mov" alt="Vision tracking demo" class="center">
 /// caption
 Video: Vision system tracking objects in real time.
 ///
@@ -35,7 +35,7 @@ Robots use standard robotic systems:
 - Computer vision pipelines
 - Modular grippers and kinematics
 
-![Our robotic arm](../assets/images/projects/armteam/Armteam%20arm.jpg) 
+<img src="/assets/images/projects/armteam/Armteam%20arm.jpg" alt="Our robotic arm" class="center">
 /// caption
 The ArmTeam 3D-printed robotic arm in development. 
 ///
@@ -50,12 +50,12 @@ The ArmTeam 3D-printed robotic arm in development.
 - **Collaborate with professors** to explore lab automation
 - **Experiment with real-world applications** in farming and lab environments.
 
-![CAD design flyer](../assets/images/projects/armteam/armteam%20CAD%20flyer.png)
+<img src="/assets/images/projects/armteam/armteam%20CAD%20flyer.png" alt="CAD design flyer" class="center">
 /// caption
 CAD and design skills are at the core of the project._
 ///
 
-![VS Code flyer](../assets/images/projects/armteam/Armteam%20vscode%20flyer.png)
+<img src="/assets/images/projects/armteam/Armteam%20vscode%20flyer.png" alt="VS Code flyer" class="center">
 /// caption
 We use modern software like LLAMA3.2, OpenCV.
 ///
@@ -64,12 +64,12 @@ We use modern software like LLAMA3.2, OpenCV.
 
 ## Our Arm
 
-![Arm gripper assembly](../assets/images/projects/armteam/Armteam%20gripper%20assembily.jpg)
+<img src="/assets/images/projects/armteam/Armteam%20gripper%20assembily.jpg" alt="Arm gripper assembly" class="center">
 /// caption
 Testing the arm’s modular gripper assembly.
 ///
 
-![Completed gripper](../assets/images/projects/armteam/Armteam%20gripper.jpg)
+<img src="/assets/images/projects/armteam/Armteam%20gripper.jpg" alt="Completed gripper" class="center">
 /// caption
 Close-up of the 3D-printed gripper.
 ///
