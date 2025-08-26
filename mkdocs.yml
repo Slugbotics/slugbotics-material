@@ -82,6 +82,8 @@ extra:
       link: https://www.youtube.com/@slugbotics866
     - icon: fontawesome/brands/discord
       link: http://discord.slugbotics.com/
+  hook: Hands on robotics at UCSC
+  tagline: Innovate. Build. Repeat.
 
 nav:
   - Home: index.md
