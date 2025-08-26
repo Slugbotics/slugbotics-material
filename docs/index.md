@@ -13,6 +13,8 @@ students to hands-on robotics engineering.
 
 ## What We Do
 
+<<<<<<< Updated upstream
+
 ### [MATE Underwater Robotics](projects/mate)
 
 The Mate project enables students to work on Marine Robotics. This project
@@ -53,6 +55,18 @@ fields—to explore real lab automation and new applications.
 
 businessbusinessbusiness
 
+### [Combat Robotics](projects/combatrobotics)
+
+The Combat Robotics Team at UCSC creates a safe and engaging space for engineers
+to make some cool fighting bots. Our team holds a yearly PLAnt workshop, where
+new members work in groups to make 1lb plastic combat robots that compete
+against each other. Additionally, our team has 2 beetleweight combat robots that
+compete around California.
+
+### [Cruz Control Autonomous Vehicles](projects/cruzcontrol)
+
+cruzcontrolcruzcontrolcruzcontrol
+
 ### [Rover Team](projects/rover)
 
 roverroverrover
@@ -61,6 +75,22 @@ roverroverrover
 
 The Humanoid Robot sub team is dedicated to designing and building an in-house
 robot that moves like a real person!
+
+### [MATE Underwater Robotics](projects/mate)
+
+The Mate project enables students to work on Marine Robotics. This project
+participates in the MATE ROV International Competition.
+
+### [Railspeeder Rail Health Inspection](projects/railspeeder)
+
+The Railspeeder project aims to evaluate the condition and safety of closed and
+abandoned rail lines so that reports can be generated and provided to transit
+agencies in hopes of reconditioning and reopening these lines.
+
+### [SOMARS UAV Research](projects/somars)
+
+The SOMARS (System for the Oversight and Management of Autonomous Robotics
+Systems) deals with all aspects of aerospace and aviation research and robotics.
 
 ---
 
