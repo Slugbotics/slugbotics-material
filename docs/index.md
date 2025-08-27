@@ -13,8 +13,6 @@ students to hands-on robotics engineering.
 
 ## What We Do
 
-<<<<<<< Updated upstream
-
 ### [MATE Underwater Robotics](projects/mate)
 
 The Mate project enables students to work on Marine Robotics. This project
@@ -53,7 +51,10 @@ fields—to explore real lab automation and new applications.
 
 ### [Business Operations](projects/business)
 
-businessbusinessbusiness
+The business team ensures that each project within Slugbotics has the resources
+to be successful, serving as the foundation that allows Slugbotics to thrive.
+The team ensures that each project has the financial resources and public
+visibility needed to succeed.
 
 ### [Combat Robotics](projects/combatrobotics)
 
