@@ -1,12 +1,11 @@
 # Rover Team  
 
 ![UCSC Rover Team Logo](../assets/images/projects/rover/logos/UCSC_Rover_Team.webp)  
+![Slugbotics at OpenSauce](../assets/images/projects/rover/Events/Slugbotics_At_OpenSauce.webp)
 
 We are the **UCSC Rover Team**, a student-led subteam of [Slugbotics](../index.md) founded in 2024. Our mission is to design, build, and program a planetary rover capable of operating in Mars-like environments.  
 
 We compete in the **University Rover Challenge (URC)** at the Mars Desert Research Station in Utah. The rover must complete complex missions such as soil sample collection, autonomous navigation, and equipment delivery — all while operating in rugged, off-road terrain at a far distance from our base station.  
-
-![Slugbotics at OpenSauce](../assets/images/projects/rover/Events/Slugbotics_At_OpenSauce.webp)
 
 ---  
 
@@ -59,7 +58,7 @@ The next generation rover will be built from the ground up with **high quality c
 
 We welcome students from all majors — from **Computer Science and Engineering** to **Earth & Planetary Sciences**. If you’re interested in robotics, science, autonomy, or space exploration, there’s a place for you here.  
 
-Follow us on [Instagram](https://www.instagram.com/slugbotics/) or join our [Discord](http://discord.slugbotics.com/) to get started.  
+Follow us on [Instagram](https://www.instagram.com/slugbotics/) and join our [Discord](http://discord.slugbotics.com/) to get started!  
 
 ---  
 
