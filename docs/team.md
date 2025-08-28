@@ -25,6 +25,8 @@ Project leads are numerous and everchanging
 
 ### Cruz Control
 
+[Njeri Gachoka](https://njerig.me), CO2026
+
 ### Humanoid
 
 Lemon Foxmere, CO2027
