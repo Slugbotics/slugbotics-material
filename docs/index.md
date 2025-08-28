@@ -69,7 +69,8 @@ cruzcontrolcruzcontrolcruzcontrol
 
 ### [Rover Team](projects/rover)
 
-roverroverrover
+The Rover Team at UCSC competes in the University Rover Challenge, where we design and build a planetary rover to traverse Mars-like terrain and complete tasks such as soil collection, autonomous navigation, and payload retrieval. Through this work, members gain hands-on experience with CAD, manufacturing, electronics, batteries, and programming.
+
 
 ### [Humanoid Team](projects/humanoid)
 
