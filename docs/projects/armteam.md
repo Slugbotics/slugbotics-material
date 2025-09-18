@@ -54,12 +54,12 @@ The ArmTeam 3D-printed robotic arm in development.
 - **Collaborate with professors** to explore lab automation
 - **Experiment with real-world applications** in farming and lab environments.
 
-<img src="../../assets/images/projects/armteam/armteam-cad-flyer.png" alt="CAD design flyer" class="center">
+<img src="../../assets/images/projects/armteam/armteam-cad-flyer.webp" alt="CAD design flyer" class="center">
 /// caption
 CAD and design skills are at the core of the project._
 ///
 
-<img src="../../assets/images/projects/armteam/armteam-vscode-flyer.png" alt="VS Code flyer" class="center">
+<img src="../../assets/images/projects/armteam/armteam-vscode-flyer.webp" alt="VS Code flyer" class="center">
 /// caption
 We use modern software like LLAMA3.2, OpenCV.
 ///
