@@ -13,10 +13,16 @@ students to hands-on robotics engineering.
 
 ## What We Do
 
+<<<<<<< Updated upstream
+
 ### [MATE Underwater Robotics](projects/mate)
 
 The Mate project enables students to work on Marine Robotics. This project
 participates in the MATE ROV International Competition.
+
+### [Cruz Control Autonomous Vehicles](projects/cruzcontrol)
+
+cruzcontrolcruzcontrolcruzcontrol
 
 ### [SOMARS UAV Research](projects/somars)
 
@@ -45,6 +51,10 @@ blue water bottle,” and even stream on Twitch to respond to chat. Our goal is 
 collaborate with professors and students—especially in chemistry and biomedical
 fields—to explore real lab automation and new applications.
 
+### [Business Operations](projects/business)
+
+businessbusinessbusiness
+
 ### [Combat Robotics](projects/combatrobotics)
 
 The Combat Robotics Team at UCSC creates a safe and engaging space for engineers
@@ -52,6 +62,14 @@ to make some cool fighting bots. Our team holds a yearly PLAnt workshop, where
 new members work in groups to make 1lb plastic combat robots that compete
 against each other. Additionally, our team has 2 beetleweight combat robots that
 compete around California.
+
+### [Cruz Control Autonomous Vehicles](projects/cruzcontrol)
+
+cruzcontrolcruzcontrolcruzcontrol
+
+### [Rover Team](projects/rover)
+
+roverroverrover
 
 ### [Humanoid Team](projects/humanoid)
 
