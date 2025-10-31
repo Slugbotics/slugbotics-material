@@ -20,7 +20,7 @@ participates in the MATE ROV International Competition.
 
 ### [Cruz Control Autonomous Vehicles](projects/cruzcontrol)
 
-cruzcontrolcruzcontrolcruzcontrol
+Cruz Control is the autonomous vehicle subteam of Slugbotics, dedicated to researching and developing safe, reliable self-driving systems. We focus on bridging the gap between simulation and real-world application and collaborate with UCSC labs to push the boundaries of autonomous technology.
 
 ### [SOMARS UAV Research](projects/somars)
 
