@@ -1,0 +1,297 @@
+/* Default */
+:root {
+  /* Primary */
+  --md-primary-fg-color: #003c6c; /* UCSC Blue */
+  --md-primary-fg-color--light: #005b9f; /* Slightly lighter blue */
+  --md-primary-fg-color--dark: #00223d; /* Slightly darker blue */
+
+  /* Accent */
+  --md-accent-fg-color: #fdc700; /* UCSC Yellow */
+  --md-accent-fg-color--light: #ffe34d;
+  --md-accent-fg-color--dark: #c79a00;
+
+  /* Links */
+  --md-typeset-a-color: var(--md-accent-fg-color);
+
+  /* Make headers bold */
+  .md-typeset h1,
+  .md-typeset h2,
+  .md-typeset h3,
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6 {
+    font-weight: 700 !important;
+  }
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] {
+  /* Header */
+  --md-primary-fg-color: #003c6c;
+  --md-primary-fg-color--light: #005b9f;
+  --md-primary-fg-color--dark: #00223d;
+
+  /* Accent */
+  --md-accent-fg-color: #fdc700;
+  --md-accent-fg-color--light: #ffe34d;
+  --md-accent-fg-color--dark: #c79a00;
+
+  /* Links */
+  --md-typeset-a-color: var(--md-accent-fg-color);
+}
+
+/* Make active nav tab yellow */
+.md-tabs__link--active,
+.md-tabs__item--active > .md-tabs__link {
+  color: var(--md-accent-fg-color) !important;
+}
+
+/* Make buttons match accent color */
+.md-button {
+  background-color: var(--md-accent-fg-color);
+  color: #000;
+}
+.md-button:hover {
+  background-color: var(--md-accent-fg-color--light);
+}
+/* --- Hero Page Layout --- */
+
+/* Normal content should start after hero */
+.md-main__inner {
+  padding-top: 0;
+}
+
+/* Hide TOC and primary nav on wide screens (optional) */
+@media screen and (min-width: 60em) {
+  .md-sidebar--secondary {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    display: none;
+  }
+}
+
+/* --- Hero Container --- */
+.hero-container {
+  position: relative;
+  height: calc(100vh - var(--md-header-height, 4rem));
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Background hero image with dark overlay for text contrast */
+.hero-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url("../assets/images/rov.webp");
+  background-size: cover;
+  background-position: center;
+  z-index: 1;
+}
+
+.hero-image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4); /* dark overlay */
+}
+
+/* Hero text content */
+.hero-content {
+  position: relative;
+  z-index: 2;
+  padding-top: calc(var(--md-header-height, 16rem));
+  text-align: left;
+  color: #fff;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+.hero-content p {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero-content .md-button {
+  margin: 0 0.5rem;
+}
+
+/* --- Scroll Down Arrow --- */
+.scroll-down {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 3;
+  cursor: pointer;
+}
+
+.scroll-down span {
+  display: block;
+  width: 24px;
+  height: 24px;
+  border-bottom: 3px solid white;
+  border-right: 3px solid white;
+  transform: rotate(45deg);
+  animation: bounce 2s infinite;
+  opacity: 0.8;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: rotate(45deg) translateY(0);
+  }
+  40% {
+    transform: rotate(45deg) translateY(5px);
+  }
+  60% {
+    transform: rotate(45deg) translateY(3px);
+  }
+}
+.md-grid__item .md-card {
+  border: none;
+  box-shadow: none; /* Optionally remove box shadow as well */
+}
+
+/* Responsive logo grid — drop in more <a class="sponsor">…</a> and it Just Works */
+.sponsors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1.25rem;
+  align-items: center;
+  justify-items: center;
+}
+
+/* Keep logos crisp, same visual height, never stretched */
+.sponsors-grid img {
+  max-height: 90px; /* <- tweak this to taste */
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+/* Optional: give each logo some breathing room for click targets */
+.sponsor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+}
+
+/* Optional tiers (use .sponsor--lg / --sm on the <a> if needed) */
+.sponsor--lg img {
+  max-height: 120px;
+}
+.sponsor--sm img {
+  max-height: 70px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Add spacing for the inserted logos below the ToC */
+.md-sidebar--secondary {
+  position: relative;
+}
+
+#rover-logos {
+  text-align: center;
+  margin-top: 2rem;
+  opacity: 0.8;
+}
+#rover-logos img {
+  width: 200px;
+  margin: 0.5rem;
+}
+
+#home-logo img {
+  width: 160px;
+  opacity: 0.9;
+}
+
+.join-button {
+  display: inline-block;
+  background-color: #5865F2; /* Discord blurple */
+  color: #FFD700 !important; /* force gold text */
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none !important;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  transition: background-color 0.2s ease, transform 0.2s ease, color 0.2s ease;
+}
+
+.join-button:hover {
+  background-color: #4752C4;
+  color: #E6C200 !important; /* slightly darker gold on hover */
+  transform: translateY(-2px);
+}
+.md-button:hover {
+  background-color: var(--md-accent-fg-color--light);
+}
+
+
+
+.md-typeset h1 {
+  color: #FFD700 !important; /* UCSC Gold */
+}
+
+/* Secondary Headers — Brighter UCSC Blue */
+.md-typeset h2 {
+  color: #005B9F !important; /* Bright Blue */
+}
+
+/* Tertiary (Subsection) Headers — Gold again */
+.md-typeset h3 {
+  color: #FFD700 !important;
+}
+
+/* Quaternary Headers — Blue */
+.md-typeset h4 {
+  color: #005B9F !important;
+}
+
+/* Fifth-Level Headers — Gold */
+.md-typeset h5 {
+  color: #FFD700 !important;
+}
+
+/* Sixth-Level Headers — Blue */
+.md-typeset h6 {
+  color: #005B9F !important;
+}
+
+/* Let linked headings inherit the heading color instead of the link color */
+.md-typeset h1 > a,
+.md-typeset h2 > a,
+.md-typeset h3 > a,
+.md-typeset h4 > a,
+.md-typeset h5 > a,
+.md-typeset h6 > a {
+  color: inherit !important;
+}
+
+.md-typeset h1 > a:hover,
+.md-typeset h2 > a:hover,
+.md-typeset h3 > a:hover,
+.md-typeset h4 > a:hover,
+.md-typeset h5 > a:hover,
+.md-typeset h6 > a:hover {
+  color: inherit !important;
+}
