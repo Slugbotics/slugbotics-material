@@ -17,8 +17,8 @@ document$.subscribe(() => {
       roverContainer.style.marginTop = "2rem";
       roverContainer.style.opacity = "0.9";
       roverContainer.innerHTML = `
-        <img src="../assets/logo1.png" width="120" style="margin:0.5rem;">
-        <img src="../assets/logo2.png" width="120" style="margin:0.5rem;">
+        <img src="${assetPath('logo1.png')}" width="120" style="margin:0.5rem;">
+        <img src="${assetPath('logo2.png')}" width="120" style="margin:0.5rem;">
         <br>
         <a href="https://discord.slugbotics.com" target="_blank" class="join-button"
            style="border-radius: 8px; display: inline-block; text-align: center; margin-top: 1rem;">
