@@ -104,11 +104,13 @@ nav:
   - Sponsors: sponsors.md
   - Contact: contact.md
 
+extra_javascript:
+  - javascripts/custom-logos.js
+
 extra_css:
   - stylesheets/extra.css
 
-extra_javascript:
-  - javascripts/custom-logos.js
+
 
 markdown_extensions:
   - attr_list
