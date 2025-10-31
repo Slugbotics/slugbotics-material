@@ -1,3 +1,5 @@
+# LEGACY, NO LONGER IN USE
+
 # UCSC Arm Team
 
 <img src="../../assets/images/projects/armteam/armteam-2024-into-meeting.jpg" alt="Photo from our intro meeting" width="400" class="center">

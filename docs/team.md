@@ -17,11 +17,9 @@ Project leads are numerous and everchanging
 
 ## Subteam Leads
 
-### Arm Team
+<!--### Business-->
 
-### Business
-
-### Combat Robotics
+<!--### Combat Robotics-->
 
 ### Cruz Control
 

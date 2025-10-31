@@ -204,3 +204,94 @@
   margin-right: auto;
   width: 50%;
 }
+
+/* Add spacing for the inserted logos below the ToC */
+.md-sidebar--secondary {
+  position: relative;
+}
+
+#rover-logos {
+  text-align: center;
+  margin-top: 2rem;
+  opacity: 0.8;
+}
+#rover-logos img {
+  width: 200px;
+  margin: 0.5rem;
+}
+
+#home-logo img {
+  width: 160px;
+  opacity: 0.9;
+}
+
+.join-button {
+  display: inline-block;
+  background-color: #5865F2; /* Discord blurple */
+  color: #FFD700 !important; /* force gold text */
+  font-weight: bold;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none !important;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+  transition: background-color 0.2s ease, transform 0.2s ease, color 0.2s ease;
+}
+
+.join-button:hover {
+  background-color: #4752C4;
+  color: #E6C200 !important; /* slightly darker gold on hover */
+  transform: translateY(-2px);
+}
+.md-button:hover {
+  background-color: var(--md-accent-fg-color--light);
+}
+
+
+
+.md-typeset h1 {
+  color: #FFD700 !important; /* UCSC Gold */
+}
+
+/* Secondary Headers — Brighter UCSC Blue */
+.md-typeset h2 {
+  color: #005B9F !important; /* Bright Blue */
+}
+
+/* Tertiary (Subsection) Headers — Gold again */
+.md-typeset h3 {
+  color: #FFD700 !important;
+}
+
+/* Quaternary Headers — Blue */
+.md-typeset h4 {
+  color: #005B9F !important;
+}
+
+/* Fifth-Level Headers — Gold */
+.md-typeset h5 {
+  color: #FFD700 !important;
+}
+
+/* Sixth-Level Headers — Blue */
+.md-typeset h6 {
+  color: #005B9F !important;
+}
+
+/* Let linked headings inherit the heading color instead of the link color */
+.md-typeset h1 > a,
+.md-typeset h2 > a,
+.md-typeset h3 > a,
+.md-typeset h4 > a,
+.md-typeset h5 > a,
+.md-typeset h6 > a {
+  color: inherit !important;
+}
+
+.md-typeset h1 > a:hover,
+.md-typeset h2 > a:hover,
+.md-typeset h3 > a:hover,
+.md-typeset h4 > a:hover,
+.md-typeset h5 > a:hover,
+.md-typeset h6 > a:hover {
+  color: inherit !important;
+}

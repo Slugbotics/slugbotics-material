@@ -4,22 +4,18 @@ hide:
   - toc
 ---
 
-#Projects
+# Projects
 
-### [MATE Underwater Robotics](mate)
+### [MATE Underwater Robotics](projects/mate.md)
 
-### [Cruz Control Autonomous Vehicles](cruzcontrol)
+### [Rover Team](projects/rover.md)
 
-### [SOMARS UAV Research](somars)
+### [Cruz Control Autonomous Vehicles](projects/cruzcontrol.md)
 
-### [Combat Robotics](combatrobotics)
+### [SOMARS UAV Research](projects/somars.md)
 
-### [Railspeeder Rail Health Inspection](railspeeder)
+### [Combat Robotics](projects/combatrobotics.md)
 
-### [Arm Team](armteam)
+### [Railspeeder Rail Health Inspection](projects/railspeeder.md)
 
-### [Business Operations](business)
-
-### [Rover Team](rover)
-
-### [Humanoid Team](humanoid)
+### [Humanoid Team](projects/humanoid.md)

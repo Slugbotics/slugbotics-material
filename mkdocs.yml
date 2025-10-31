@@ -84,20 +84,20 @@ extra:
       link: http://discord.slugbotics.com/
   hook: Hands on robotics at UCSC
   tagline: Innovate. Build. Repeat.
+  static_templates:
+    - 404.html
 
 nav:
   - Home: index.md
   - About: about.md
   - Projects:
       - projects.md
-      - Arm: projects/armteam.md
-      - Business: projects/business.md
+      - Mate: projects/mate.md
+      - Rover Team: projects/rover.md
       - Combat Robotics: projects/combatrobotics.md
       - Cruz Control: projects/cruzcontrol.md
       - Humanoid: projects/humanoid.md
-      - Mate: projects/mate.md
       - Railspeeder: projects/railspeeder.md
-      - Rover: projects/rover.md
       - SOMARS: projects/somars.md
   - Team: team.md
   - Onboarding: onboarding.md
@@ -106,6 +106,9 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/custom-logos.js
 
 markdown_extensions:
   - attr_list

@@ -16,7 +16,7 @@ collaboration.
 
 ## Discord
 
-[Discord](https://discord.slugbotics.com)
+[Join our Discord!](https://discord.slugbotics.com)
 
 ---
 
