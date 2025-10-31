@@ -25,7 +25,7 @@ source venv/bin/activate
 ### Install mkdocs-material
 
 ```bash
-pip3 install mkdocs-material
+pip3 install mkdocs-material mkdocs-glightbox
 ```
 
 ### Test run site
