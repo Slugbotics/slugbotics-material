@@ -22,10 +22,10 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### Install mkdocs-material
+### Install mkdocs-material & mkdocs-glightbox
 
 ```bash
-pip3 install mkdocs-material
+pip3 install mkdocs-material mkdocs-glightbox
 ```
 
 ### Test run site

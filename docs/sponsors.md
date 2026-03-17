@@ -12,12 +12,12 @@ you'd like to donate or sponsor us, please contact us at
 <div class="sponsors-grid">
 
 <a class="sponsor" href="https://engineering.ucsc.edu/" aria-label="UC Santa Cruz Baskin Engineering">
-    <img src="../assets/images/sponsors/baskin-engineering.png"
+    <img src="../assets/images/sponsors/baskin-engineering.webp"
          alt="UC Santa Cruz Baskin Engineering" loading="lazy">
   </a>
 
 <a class="sponsor" href="https://sendcutsend.com/" aria-label="SendCutSend">
-    <img src="../assets/images/sponsors/sendcutsend.png"
+    <img src="../assets/images/sponsors/sendcutsend.webp"
          alt="SendCutSend" loading="lazy">
   </a>
 
