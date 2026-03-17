@@ -35,6 +35,10 @@ new members work in groups to make 1lb plastic combat robots that compete
 against each other. Additionally, our team has 2 beetleweight combat robots that
 compete around California.
 
+### [Rover Team](projects/rover)
+
+The Rover Team at UCSC competes in the University Rover Challenge, where we design and build a planetary rover to traverse Mars-like terrain and complete tasks such as soil collection, autonomous navigation, and payload retrieval. Through this work, members gain hands-on experience with CAD, manufacturing, electronics, batteries, and programming.
+
 ### [Railspeeder Rail Health Inspection](projects/railspeeder)
 
 The Railspeeder project aims to evaluate the condition and safety of closed and
@@ -53,6 +57,10 @@ fields—to explore real lab automation and new applications.
 
 The Humanoid Robot sub team is dedicated to designing and building an in-house
 robot that moves like a real person!
+
+### [Business Operations](projects/business)
+
+businessbusinessbusiness
 
 ---
 
