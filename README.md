@@ -8,6 +8,7 @@ Clone repo
 
 ```bash
 git clone https://github.com/Slugbotics/slugbotics-material.git
+cd ./slugbotics-material
 ```
 
 ### Create venv
@@ -25,7 +26,7 @@ source venv/bin/activate
 ### Install mkdocs-material & mkdocs-glightbox
 
 ```bash
-pip3 install mkdocs-material mkdocs-glightbox
+pip3 install -r requirements.txt
 ```
 
 ### Test run site
